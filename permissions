@@ -1,0 +1,2 @@
+find . -type d -exec echo chmod 755 {} +
+find . -type d -exec echo chmod 644 {} +
